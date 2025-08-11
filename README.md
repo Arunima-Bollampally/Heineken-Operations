@@ -1,2 +1,2 @@
-# Heineken-Operations
-Global logistics and sustainable practices in beverage production and distribution.
+# Heineken-Global logistics and sustainable practices in beverage production and distribution.
+Heineken, operating in 190+ countries with €23B annual revenue, is redefining global logistics through sustainability and technology. It boasts top ESG scores, invests in renewable energy (e.g., Europe’s largest solar thermal plant in Seville), and deploys electric trucks. Using Digital Twins, AI, machine learning, and smart warehousing, it optimizes efficiency, reduces downtime, and mitigates risks via local sourcing. The strategy targets scaling Digital Twins across all 165+ breweries for consistent, sustainable global operations.
